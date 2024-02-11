@@ -1,0 +1,139 @@
+[
+    {
+        "name": "OPPO F21s Pro 5G",
+        "price": 19999,
+        "description":"OPPO F21s Pro 5G is a powerful device with good picture quality",
+        "ratings": 4,
+        "images":[
+            {
+                "image": "/images/products/1.jpg"
+            },
+            {
+                "image": "/images/products/6.jpg"
+            }
+        ],
+        "category" : "Mobile phones",
+        "seller": "Amazon",
+        "stock" :10,
+        "numOfReview":0,
+        "reviews":[]  
+    },
+    {
+        "name": "boAt Wave Call 2 Smart Watch",
+        "price": 1999,
+        "description":"Wave Call 2 Smart Watch with 1.83 HD Dsiplay, BT Calling,DIY Watch Face Studio, Coins, 700+ Active Modes,Live Crickt scores,HR&SPO2 and sleep Monitoring",
+        "ratings": 5,
+        "images":[
+            {
+                "image": "/images/products/2.jpg"
+            },
+            
+            {
+                "image": "/images/products/7.jpg"
+            }
+        ],
+        "category" : "Smart Watch",
+        "seller": "Amazon",
+        "stock" :20,
+        "numOfReview":0,
+        "reviews":[]  
+    },
+    {
+        "name": "Dell Inspiron 3511 Laptop",
+        "price": 45000,
+        "description": "Dell Inspiron 3511 Laptop,Intel i3-1115G4,8GB,512GB",
+        "ratings": 5,
+        "images": [
+          {
+            "image": "/images/products/3.jpg"
+          }
+        ],
+        "category": "Laptops",
+        "seller": "Ebay",
+        "stock": 9,
+        "numOfReviews": 0,
+        "reviews": []
+    },
+    {
+        "name": "PTron Newly Launched Tangent Sports, 60Hrs Playtime",
+       "price": 999,
+        "description": "Gigantic 60 + Hours of music playtime on a single charge; BT5.2 Wireless headphones with ENC (Environmental Noise Cancellation) Technology to enhance your voice quality over the voice calls",
+        "ratings": 5,
+        "images": [
+            {
+                "image": "/images/products/4.jpg"
+            }
+        ],
+        "category": "Headphones",
+        "seller": "Amazon",
+        "stock": 4,
+        "numOfReviews": 0,
+        "reviews": []
+    }, 
+    {
+        "name": "Campus Men's Maxico Running Shoes",
+        "price": 1500,
+        "description": "The high raised back cover with extra padding.",
+        "ratings": 3,
+        "images": [
+            {
+                "image": "/images/products/5.jpg"
+            }
+        ],
+        "category": "Sports",
+        "seller": "Ebay",
+        "stock": 6,
+        "numOfReviews": 0,
+        "reviews": []
+    },
+    {
+        "name": "Harry Potter Book Set:A Magical Adventure Begins(Set of 3 Books",
+        "price": 1100,
+        "description": "The essential introduction to the world of Harry Potter: three magical adventures in one beautiful box setby J.K.Rowling",
+        "ratings": 4,
+        "images": [
+            {
+                "image": "/images/products/Harry-potter.jpg"
+            }
+        ],
+        "category": "Books",
+        "seller": "Flipkart",
+        "stock": 6,
+        "numOfReviews": 0,
+        "reviews": []
+    },
+    {
+        "name": "Rich Dad Poor Dad Book",
+        "price": 420,
+        "description": "After the success of Rich Dad Poor Dad, Robert T Kiyosaki has attempted to extend a similar kind of helping hand towards teenagers, with his new title Rich Dad Poor Dad For Teens. This book revolves around his own experience with the financial world as a teenager.",
+        "ratings": 5,
+        "images": [
+            {
+                "image": "/images/products/8.jpg"
+            }
+        ],
+        "category": "Books",
+        "seller": "Amazon",
+        "stock": 6,
+        "numOfReviews": 0,
+        "reviews": []
+    },
+    {
+        "name": "Casio G-Shock Digital Black Dial Men GBD-200-9DR (G1148) Watch",
+        "price": 1299,
+        "description": "Mens sport watch",
+        "ratings": 3,
+        "images": [
+            {
+                "image": "/images/products/g-shock.jpg"
+            }
+        ],
+        "category": "Watch",
+        "seller": "Amazon",
+        "stock": 25,
+        "numOfReviews": 0,
+        "reviews": []
+    }
+
+
+]
